@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insturctions for completeing Lab 1 
 ### Use the index.html template to create your first website.
 
@@ -17,4 +18,7 @@ into this assignment's turn-in post. Like so:
 ***
 Repo Link: https://github.com/dkriegls/coursera/tree/main
 
-Live Link: https://dkriegls.github.io/coursera/
+Live Link: https://dkriegls.github.io/coursera/Live Link: https://dkriegls.github.io/coursera/
+=======
+# webdev_lab1 readme file created with project.
+>>>>>>> 0ab25644bf762b226037d23e568642a498c05631
